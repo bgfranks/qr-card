@@ -12,8 +12,8 @@ body {
   background: #fff;
   border-radius: 20px;
   padding: 20px;
-  max-width: 300px;
-  max-height: 480px;
+  max-width: 320px;
+  max-height: 510px;
 }
 
 .card .img-container img {
@@ -25,12 +25,13 @@ body {
 .text-container h1 {
   font-weight: 700;
   color: hsl(218, 44%, 22%);
-  font-size: 25px;
+  font-size: 28px;
 }
 
 .text-container p {
   color: hsl(216, 15%, 48%);
   font-size: 16px;
-  padding: 0 10px;
+  font-weight: 400;
+  padding: 0 20px;
   line-height: 1.5rem;
 }
